@@ -6,7 +6,6 @@ This project simulates air intake and Air-Fuel Ratio (AFR) for a simplified 4-st
 ### Features
 - Air mass flow vs RPM
 - AFR calculation with throttle input
-- Torque curve simulation (optional)
-- Optimization of AFR (optional)
+
 
 ### Structure
