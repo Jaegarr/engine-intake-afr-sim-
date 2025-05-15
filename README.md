@@ -7,5 +7,3 @@ This project simulates air intake and Air-Fuel Ratio (AFR) for a simplified 4-st
 - Air mass flow vs RPM
 - AFR calculation with throttle input
 
-
-### Structure
